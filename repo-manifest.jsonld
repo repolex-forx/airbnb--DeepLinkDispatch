@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/airbnb/DeepLinkDispatch/commit/280a91f29210d4c8764abb1e146d3a6faeb7b32e",
       "git:hexsha": "280a91f29210d4c8764abb1e146d3a6faeb7b32e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T22:34:10.725067+00:00"
     },
     {
       "@id": "https://repolex.ai/r/airbnb/DeepLinkDispatch/commit/a67d8e675d488819afdbf858668565eb3edd4f28",
